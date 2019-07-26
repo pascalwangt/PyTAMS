@@ -1,0 +1,31 @@
+28 µs ± 545 ns per loop (mean ± std. dev. of 7 runs, 10000 loops each)
+27.6 µs ± 534 ns per loop (mean ± std. dev. of 7 runs, 10000 loops each)
+216 µs ± 4.11 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
+215 µs ± 30 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
+20.6 µs ± 239 ns per loop (mean ± std. dev. of 7 runs, 10000 loops each)
+19.6 µs ± 157 ns per loop (mean ± std. dev. of 7 runs, 10000 loops each)
+[4;33mReloaded modules[24m: TAMS_class_nd, ellipsoid_fun, warp_score_function_ell, interpolate, schemes, triple_well_2D.triple_well[0m
+[4;33mReloaded modules[24m: TAMS_class_nd, ellipsoid_fun, warp_score_function_ell, interpolate, schemes[0m
+Using interpolated function from user-defined array...
+
+######################
+Starting TAMS job ...
+###################### 
+
+
+Parameters: 
+ noise strength sigma: 1.20. 
+ particles number: 2.0e+02 
+ trajectory length: 50 seconds. 
+ dt = 0.01 seconds 
+
+Warping the score function...
+Computing ellipsoid array ...
+[4;33mReloaded modules[24m: TAMS_class_nd, ellipsoid_fun, warp_score_function_ell, interpolate, schemes[0m
+Using interpolated function from user-defined array...
+[4;33mReloaded modules[24m: TAMS_class_nd, ellipsoid_fun, warp_score_function_ell, interpolate, schemes[0m
+Using interpolated function from user-defined array...
+18.6 µs ± 548 ns per loop (mean ± std. dev. of 7 runs, 100000 loops each)
+21.3 µs ± 2.29 µs per loop (mean ± std. dev. of 10 runs, 100000 loops each)
+19 µs ± 501 ns per loop (mean ± std. dev. of 7 runs, 100000 loops each)
+174 µs ± 2.01 µs per loop (mean ± std. dev. of 7 runs, 10000 loops each)

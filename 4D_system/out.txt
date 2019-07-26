@@ -1,0 +1,21 @@
+Using user-defined score function...
+
+######################
+Starting TAMS job ...
+###################### 
+
+
+Parameters: 
+ noise strength sigma: 0.03. 
+ particles number: 2.0e+02 
+ trajectory length: 80 seconds. 
+ dt = 0.01 seconds 
+
+Warping the score function...
+Computing ellipsoid array ...
+Quadratic form tolerance: 6.94e-01
+Found 268 points in the ellipsoid array.
+Used the ellipsoid to warp the score function threshold. Automatic threshold: 2.76e-01 
+
+Computing sample number 1 out of 5 ... 
+
