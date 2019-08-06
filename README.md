@@ -14,6 +14,6 @@ Confidence ellipsoids, used for setting target sets, are computed in the `ellips
 
 Output files are written to a `.hdf5` output file.
 
-The main directory contains files for the analysis of the performance of TAMS and its results. (They are not essential for running TAMS.) such as a series of files which estimate the typical transition path from the spatial histogram of transition trajectories. A method to design a score function based on the estimated transition path. The directory also includes dynamical system files for the Lorenz 1963 model and a 4-mode model of the double-gyre wind-driven ocean circulation.
+The main directory contains files for the analysis of the performance of TAMS and its results, (they are not essential for running TAMS) such as a series of files which estimate the typical transition path from the spatial histogram of transition trajectories and a method to design a score function based on the estimated transition path. The directory also includes dynamical system files for the Lorenz 1963 model and a 4-mode model of the double-gyre wind-driven ocean circulation.
 
 
